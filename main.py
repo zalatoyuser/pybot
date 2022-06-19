@@ -7,7 +7,7 @@ import json
 import asyncio
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=1173681696:AAHxBqwNhcjs96HX7Foa4n3odKK1VxM-lcs)
+bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
 
