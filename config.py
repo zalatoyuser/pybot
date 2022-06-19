@@ -1,0 +1,1 @@
+API_TOKEN = '1173681696:AAHxBqwNhcjs96HX7Foa4n3odKK1VxM-lcs' # токен от вашего тлеграм бота
