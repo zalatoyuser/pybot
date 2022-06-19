@@ -3,4 +3,4 @@ tgcrypto
 aiogram
 Mailbox
 requests
-lxml.html as HT
+lxml
